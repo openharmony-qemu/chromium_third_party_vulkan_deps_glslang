@@ -66,19 +66,6 @@ used to filter file path.
                 <policyitem type="compatibility" name="GPL-2.0-with-bison-exception" path=".*" desc="" />
                 <policyitem type="compatibility" name="GPL-3.0+" path=".*" desc="" />
                 <policyitem type="compatibility" name="Khronos Group License" path="glslang/MachineIndependent.*" desc="" />
-                <!-- <policyitem type="compatibility" name="Khronos License" path=".*" desc="" />
-                <policyitem type="compatibility" name="Apache-2.0" path=".*" desc="" />
-                <policyitem type="compatibility" name="GPLStyleLicense" path=".*" desc="" />
-                <policyitem type="compatibility" name="LLVM License" path="third_party/llvm-subzero.*" desc="" />
-                <policyitem type="compatibility" name="LLVM License" path="third_party/subzero.*" desc="" />
-                <policyitem type="compatibility" name="LLVM License" path="third_party/llvm-10.0.*" desc="" />
-                <policyitem type="compatibility" name="GPL-3.0+" path=".*" desc="" />
-                <policyitem type="compatibility" name="Spencer-94" path=".*" desc="" />
-                <policyitem type="compatibility" name="OpenBSD" path=".*" desc="" />
-                <policyitem type="compatibility" name="original license" path="third_party/llvm-subzero/include/llvm/Support.*" desc="" />
-                <policyitem type="compatibility" name="original license" path="third_party/llvm-10.0/llvm/include/llvm/Support.*" desc="" />
-                <policyitem type="compatibility" name="Khronos License2" path="include.*" desc="" />
-                <policyitem type="compatibility" name="Khronos License3" path="include.*" desc="" /> -->
             </policy>
         </policylist>
         <filefilterlist>
