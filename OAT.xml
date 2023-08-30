@@ -86,6 +86,11 @@ used to filter file path.
                 <filteritem type="filepath" name="third_party/SPIRV-Headers/BUILD.bazel"
                     desc="" />
             </filefilter>
+
+            <filefilter name="defaultFilter">
+                <filteritem type="filepath" name="README.OpenSource"
+                    desc="" />
+            </filefilter>
         </filefilterlist>
         <licensematcherlist>
             <!-- <licensematcher name="LLVM License" desc="">
