@@ -1,65 +1,65 @@
 [
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "BSD-3-Clause",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     },
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "webressources",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "webressources",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     },
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "BSD-2-Clause",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "BSD-2-Clause",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     },
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "MIT",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "MIT",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     },
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "Apache-2.0",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "Apache-2.0",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     },
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "GPL-3.0-only",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "GPL-3.0-only",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     },
     {
-        "Name": "VulkanDepsGlslang",                  
-        "License": "LicenseRef-scancode-nvidia-2002",        
-        "License File": "LICENSE.TXT",     
+        "Name": "VulkanDepsGlslang",
+        "License": "LicenseRef-scancode-nvidia-2002",
+        "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",   
-        "Description": "第三方软件vulkan-deps/glslang"          
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
+        "Description": "第三方软件vulkan-deps/glslang"
     }
 ]
