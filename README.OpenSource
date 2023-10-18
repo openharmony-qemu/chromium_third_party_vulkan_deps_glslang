@@ -6,16 +6,7 @@
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
-    },
-    {
-        "Name": "VulkanDepsGlslang",
-        "License": "webressources",
-        "License File": "LICENSE.TXT",
-        "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
     },
     {
         "Name": "VulkanDepsGlslang",
@@ -24,7 +15,7 @@
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
     },
     {
         "Name": "VulkanDepsGlslang",
@@ -33,7 +24,7 @@
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
     },
     {
         "Name": "VulkanDepsGlslang",
@@ -42,7 +33,7 @@
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
     },
     {
         "Name": "VulkanDepsGlslang",
@@ -51,7 +42,7 @@
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
     },
     {
         "Name": "VulkanDepsGlslang",
@@ -60,6 +51,6 @@
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@6624e1367309630b2f6df3cf93a5f864e89973f9",
-        "Description": "第三方软件vulkan-deps/glslang"
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
     }
 ]
