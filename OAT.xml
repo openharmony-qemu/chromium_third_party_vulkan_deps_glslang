@@ -71,7 +71,7 @@ used to filter file path.
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
                 <filteritem type="filepath" name="glslang/MachineIndependent/.*"
-                    desc="该文件涉及GPL-3.0+，经确认不会使用" />
+                    desc="经确认，该文件不会使用" />
             </filefilter>
 
             <filefilter name="defaultFilter">
