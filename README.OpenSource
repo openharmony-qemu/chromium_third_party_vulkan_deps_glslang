@@ -1,6 +1,6 @@
 [
     {
-        "Name": "VulkanDepsGlslang",
+        "Name": "glslang",
         "License": "BSD-3-Clause",
         "License File": "LICENSE.TXT",
         "Version Number": "6624e1367309630b2f6df3cf93a5f864e89973f9",
