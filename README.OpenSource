@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "glslang",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE.TXT",
+        "Version Number": "9c644fcb5b9a1a9c975c50a790fd14c5451292b0",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang@9c644fcb5b9a1a9c975c50a790fd14c5451292b0",
+        "Description": "第三方软件vulkan-deps/glslang,Glsland是OpenGL ES和OpenGL着色语言的官方参考编译器前端,"
+    }
+]
